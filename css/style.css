@@ -315,11 +315,12 @@ figure {
 }
 
 .fh5co-cover {
-  height: 100vh;
+  height: 100vh !important;
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
   width: 100%;
+  background-position: center !important;
 }
 .fh5co-cover .overlay {
   z-index: 0;
@@ -956,7 +957,11 @@ form label {
 
 .simply-countdown {
   /* The countdown */
+  /* padding-top: 10%; */
   margin-bottom: 2em;
+}
+.btn-head {
+  padding-top: 60%;
 }
 
 .simply-countdown > .simply-section {
