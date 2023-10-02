@@ -320,7 +320,7 @@ figure {
   background-repeat: no-repeat;
   position: relative;
   width: 100%;
-  background-position: center !important;
+  background-position: center top !important;
 }
 .fh5co-cover .overlay {
   z-index: 0;
@@ -342,7 +342,7 @@ figure {
 }
 .fh5co-cover .display-t,
 .fh5co-cover .display-tc {
-  height: 900px;
+  height: 100vh !important;
   display: table;
   width: 100%;
 }
@@ -880,7 +880,7 @@ form label {
   #fh5co-header .display-tc h1,
   #fh5co-counter .display-tc h1,
   .fh5co-cover .display-tc h1 {
-    font-size: 30px;
+    font-size: 40px;
   }
 }
 #fh5co-header .display-tc h2,
@@ -960,8 +960,10 @@ form label {
   /* padding-top: 10%; */
   margin-bottom: 2em;
 }
-.btn-head {
-  padding-top: 60%;
+@media screen and (max-width: 500px) {
+  .btn-head {
+    padding-top: 60% !important;
+  }
 }
 
 .simply-countdown > .simply-section {
