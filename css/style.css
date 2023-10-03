@@ -1911,4 +1911,16 @@ form label {
   opacity: 0;
 }
 
+@media screen and (max-width: 375px) {
+  .simply-countdown > .simply-section {
+    width: 80px;
+    height: 80px;
+  }
+
+  .simply-countdown > .simply-section .simply-amount {
+    font-size: 18px;
+    /* amounts */
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
