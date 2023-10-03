@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Raveendar & Nithya Wedding
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VEVENT
+DTSTART:20231027T003000Z
+DTEND:20231027T030000Z
+DTSTAMP:20231003T200625Z
+UID:04clhp8k9hlhmq2setfergcpbh@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/bpw-kaod-hfj
+CLASS:PUBLIC
+CREATED:20230922T110614Z
+DESCRIPTION:<p><b>Muhurtham:</b><br></p><p>Friday\, 27th October 2023\, 6:0
+ 0 - 7:30 AM</p><p>Sri Muthumariyamman Kovil\, <span>Villianur Main Road\, E
+ mbalam\, Pondicherry - 605 106</span></p><p>Near <span>Government Primary S
+ chool</span></p><a href="https://maps.app.goo.gl/gwEv966nxQFXG9Vt5"><u>Get 
+ Direction</u></a>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.goog
+ le.com/bpw-kaod-hfj\n\nLearn more about Meet at: https://support.google.com
+ /a/users/answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230922T110639Z
+LOCATION:Sri Muthumariyamman Kovil\, Near Primary School\, VPF7+48J\, Villi
+ anur Main Road\, Embalam\, Puducherry\, Embalam\, Puducherry 605106\, India
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Raveendar & Nithya Muhurtham
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231026T123000Z
+DTEND:20231026T170000Z
+DTSTAMP:20231003T200625Z
+UID:4q0famn4p196fdra7t4lav9sa4@google.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/bpw-kaod-hfj
+CLASS:PUBLIC
+CREATED:20230922T110303Z
+DESCRIPTION:<p><b>Reception:</b></p><p>Thursday\, 26th October 2023\, 6:30 
+ PM onwards</p><p>Anandha Inn Convention Centre\, <span>S.V. Patel Salai\, T
+ hiruvalluvar Nagar\, Pondicherry - 605 001</span></p><p><span><a href="http
+ s://maps.app.goo.gl/sZ5nGAT9MAKhT6qC8">Get Direction</a></span></p>\n\n-::~
+ :~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ ::~:~::-\nJoin with Google Meet: https://meet.google.com/bpw-kaod-hfj\n\nLe
+ arn more about Meet at: https://support.google.com/a/users/answer/9282720\n
+ \nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230922T110646Z
+LOCATION:Anandha Inn Convention Centre and Suites\, No -154\, Sardar Vallab
+ hai Patel Salai\, Thiruvalluvar Nagar\, Puducherry\, 605001\, India
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Raveendar & Nithya Reception
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
