@@ -876,11 +876,11 @@ form label {
     font-size: 50px;
   }
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 375px) {
   #fh5co-header .display-tc h1,
   #fh5co-counter .display-tc h1,
   .fh5co-cover .display-tc h1 {
-    font-size: 50px;
+    font-size: 45px;
   }
 }
 #fh5co-header .display-tc h2,
