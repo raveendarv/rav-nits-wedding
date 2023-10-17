@@ -1923,4 +1923,14 @@ form label {
   }
 }
 
+#fh5co-header {
+  background-image: url(../images/img_bg_2-2.jpg);
+}
+
+@media screen and (max-width: 900px) {
+  #fh5co-header {
+    background-image: url(../images/img_bg_2.jpg);
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
