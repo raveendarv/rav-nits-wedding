@@ -957,8 +957,8 @@ form label {
 
 .simply-countdown {
   /* The countdown */
-  /* padding-top: 10%; */
-  margin-top: 2em;
+
+  margin-bottom: 2em;
 }
 @media screen and (max-width: 500px) {
   .btn-head {
@@ -1935,7 +1935,7 @@ form label {
 
 @media screen and (min-height: 400px) and (max-height: 800px) {
   .simply-countdown {
-    margin-top: 10em;
+    padding-top: 20%;
   }
 }
 /*# sourceMappingURL=style.css.map */
